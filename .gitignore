@@ -1,0 +1,37 @@
+# ignore build directory
+build/
+
+# ignore libs directory
+libs/
+
+# ignore editor config files
+.vs/, .idea/
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# ignore compiled code
+*.class, *.jar, *.zip, *.rar, .tar.gz, *.war, *.nar, *.ear
+
+# Log file
+*.log
+
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
