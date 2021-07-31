@@ -1,0 +1,1 @@
+My personal Java project template
